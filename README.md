@@ -154,5 +154,5 @@ Contributions are welcome! If you find a bug or want to suggest a feature, feel 
 
 ## 🧑‍💼 Author
 
-Made with ❤️ by **Ansh Singhal**
+Made with ❤️ by **Lokesh Maheswari**
 
